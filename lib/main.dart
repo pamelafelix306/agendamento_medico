@@ -1,8 +1,6 @@
 import 'package:agendamento_medico/welcome.dart';
 import 'package:flutter/material.dart';
 
-import 'home.dart';
-
 void main() {
   runApp(MyApp());
 }
